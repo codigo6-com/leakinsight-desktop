@@ -2,7 +2,7 @@
 
 ### Professional Credential Breach Detection with 14+ Billion Records
 
-<a href="https://beaglesecurity.com/certificate/pz45f7o0p7edc858ucw8v9xn6573vl3a" target="_blank"><img src="https://cdn.beaglesecurity.com/assets/logo/blue-1x.svg" alt="Beagle certificate"></a> <br> <br>
+<br><a href="https://beaglesecurity.com/certificate/pz45f7o0p7edc858ucw8v9xn6573vl3a" target="_blank"><img src="https://cdn.beaglesecurity.com/assets/logo/blue-1x.svg" alt="Beagle certificate"></a><br><br>
 [![RapidAPI](https://img.shields.io/badge/RapidAPI-LeakInsight-0055ff?style=for-the-badge&logo=rapidapi)](https://rapidapi.com/codigo6/api/leakinsight)
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
