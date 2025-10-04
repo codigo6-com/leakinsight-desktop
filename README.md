@@ -2,11 +2,11 @@
 
 ### Professional Credential Breach Detection with 14+ Billion Records
 
-<a href="https://beaglesecurity.com/certificate/pz45f7o0p7edc858ucw8v9xn6573vl3a" target="_blank"><img src="https://cdn.beaglesecurity.com/assets/logo/blue-1x.svg" alt="Beagle certificate"></a>
+<a href="https://beaglesecurity.com/certificate/pz45f7o0p7edc858ucw8v9xn6573vl3a" target="_blank"><img src="https://cdn.beaglesecurity.com/assets/logo/blue-1x.svg" alt="Beagle certificate"></a> <br> <br>
 [![RapidAPI](https://img.shields.io/badge/RapidAPI-LeakInsight-0055ff?style=for-the-badge&logo=rapidapi)](https://rapidapi.com/codigo6/api/leakinsight)
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/codigo6-com/leakinsight-app?style=for-the-badge)](https://github.com/codigo6-com/leakinsight-app)
+[![Stars](https://img.shields.io/github/stars/codigo6-com/leakinsight-desktop?style=for-the-badge)](https://github.com/codigo6-com/leakinsight-desktop)
 
 **Protect your organization from credential breaches with the most comprehensive leak detection API**
 
@@ -168,8 +168,8 @@ Choose the plan that fits your needs:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/codigo6-com/leakinsight-app.git
-cd leakinsight-app
+git clone https://github.com/codigo6-com/leakinsight-desktop.git
+cd leakinsight-desktop
 ```
 
 2. **Install dependencies**
@@ -345,8 +345,8 @@ We welcome contributions! Whether it's:
 ### Need Help?
 - 📚 **API Documentation**: [RapidAPI Docs](https://rapidapi.com/codigo6/api/leakinsight)
 - 💬 **RapidAPI Messaging**: Contact us directly through RapidAPI
-- 🐛 **Bug Reports**: [Open an issue on GitHub](https://github.com/codigo6-com/leakinsight-app/issues)
-- 💡 **Feature Requests**: [Submit via GitHub Issues](https://github.com/codigo6-com/leakinsight-app/issues)
+- 🐛 **Bug Reports**: [Open an issue on GitHub](https://github.com/codigo6-com/leakinsight-desktop/issues)
+- 💡 **Feature Requests**: [Submit via GitHub Issues](https://github.com/codigo6-com/leakinsight-desktop/issues)
 
 ### Enterprise Solutions
 Looking for custom solutions or higher limits? Contact us for:
@@ -391,7 +391,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 If you find LeakInsight useful, please **star this repository** to help others discover it!
 
-[![GitHub stars](https://img.shields.io/github/stars/codigo6-com/leakinsight-app?style=social)](https://github.com/codigo6-com/leakinsight-app)
+[![GitHub stars](https://img.shields.io/github/stars/codigo6-com/leakinsight-desktop?style=social)](https://github.com/codigo6-com/leakinsight-desktop)
 
 ---
 
@@ -399,9 +399,9 @@ If you find LeakInsight useful, please **star this repository** to help others d
 
 - 🚀 **[Subscribe to API](https://rapidapi.com/codigo6/api/leakinsight)**
 - 📖 **[API Documentation](https://rapidapi.com/codigo6/api/leakinsight)**
-- 💬 **[Join Discussion](https://github.com/codigo6-com/leakinsight-app/discussions)**
-- 🐛 **[Report Issues](https://github.com/codigo6-com/leakinsight-app/issues)**
-- ⭐ **[Star on GitHub](https://github.com/codigo6-com/leakinsight-app)**
+- 💬 **[Join Discussion](https://github.com/codigo6-com/leakinsight-desktop/discussions)**
+- 🐛 **[Report Issues](https://github.com/codigo6-com/leakinsight-desktop/issues)**
+- ⭐ **[Star on GitHub](https://github.com/codigo6-com/leakinsight-desktop)**
 
 ---
 
