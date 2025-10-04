@@ -3,14 +3,14 @@
 ### Professional Credential Breach Detection with 14+ Billion Records
 
 <br><a href="https://beaglesecurity.com/certificate/pz45f7o0p7edc858ucw8v9xn6573vl3a" target="_blank"><img src="https://cdn.beaglesecurity.com/assets/logo/blue-1x.svg" alt="Beagle certificate"></a><br><br>
-[![RapidAPI](https://img.shields.io/badge/RapidAPI-LeakInsight-0055ff?style=for-the-badge&logo=rapidapi)](https://rapidapi.com/codigo6/api/leakinsight)
+[![RapidAPI](https://img.shields.io/badge/RapidAPI-LeakInsight-0055ff?style=for-the-badge&logo=rapidapi)](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/codigo6-com/leakinsight-desktop?style=for-the-badge)](https://github.com/codigo6-com/leakinsight-desktop)
 
 **Protect your organization from credential breaches with the most comprehensive leak detection API**
 
-[Get API Key](https://rapidapi.com/codigo6/api/leakinsight) • [Documentation](https://rapidapi.com/codigo6/api/leakinsight) • [Features](#-features) • [Pricing](#-pricing-plans)
+[Get API Key](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api) • [Documentation](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api) • [Features](#-features) • [Pricing](#-pricing-plans)
 
 </div>
 
@@ -154,7 +154,7 @@ Choose the plan that fits your needs:
 </tr>
 </table>
 
-**[🚀 Subscribe Now on RapidAPI →](https://rapidapi.com/codigo6/api/leakinsight)**
+**[🚀 Subscribe Now on RapidAPI →](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)**
 
 ---
 
@@ -178,7 +178,7 @@ pip install -r requirements.txt
 ```
 
 3. **Get your API key**
-   - Visit [LeakInsight API on RapidAPI](https://rapidapi.com/codigo6/api/leakinsight)
+   - Visit [LeakInsight API on RapidAPI](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)
    - Subscribe to any plan (Free tier available!)
    - Copy your unique API key
 
@@ -343,7 +343,7 @@ We welcome contributions! Whether it's:
 ## 📞 Support & Contact
 
 ### Need Help?
-- 📚 **API Documentation**: [RapidAPI Docs](https://rapidapi.com/codigo6/api/leakinsight)
+- 📚 **API Documentation**: [RapidAPI Docs](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)
 - 💬 **RapidAPI Messaging**: Contact us directly through RapidAPI
 - 🐛 **Bug Reports**: [Open an issue on GitHub](https://github.com/codigo6-com/leakinsight-desktop/issues)
 - 💡 **Feature Requests**: [Submit via GitHub Issues](https://github.com/codigo6-com/leakinsight-desktop/issues)
@@ -397,8 +397,8 @@ If you find LeakInsight useful, please **star this repository** to help others d
 
 ## 🔗 Quick Links
 
-- 🚀 **[Subscribe to API](https://rapidapi.com/codigo6/api/leakinsight)**
-- 📖 **[API Documentation](https://rapidapi.com/codigo6/api/leakinsight)**
+- 🚀 **[Subscribe to API](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)**
+- 📖 **[API Documentation](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)**
 - 💬 **[Join Discussion](https://github.com/codigo6-com/leakinsight-desktop/discussions)**
 - 🐛 **[Report Issues](https://github.com/codigo6-com/leakinsight-desktop/issues)**
 - ⭐ **[Star on GitHub](https://github.com/codigo6-com/leakinsight-desktop)**
@@ -409,7 +409,7 @@ If you find LeakInsight useful, please **star this repository** to help others d
 
 **Built with ❤️ by [Codigo6](https://codigo6.com)**
 
-**Powered by [LeakInsight API](https://rapidapi.com/codigo6/api/leakinsight)**
+**Powered by [LeakInsight API](https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api)**
 
 *Protecting organizations one credential at a time*
 
